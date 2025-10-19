@@ -21,7 +21,7 @@ export default function Navbar() {
           <Link to="/" className="brand-logo-wrap" aria-label="INFINITY TV — Home">
             <img
               className="brand-logo"
-              src="/logo-mobile.png"
+              src="/LLOGO.png"
               width="200"
               height="48"
               alt="INFINITY TV"
