@@ -58,19 +58,4 @@ export default function SiteFooter() {
     </footer>
   );
 }
-<div className="policy-strip">
-  <div className="container policy-row">
-    <nav className="policy-links" aria-label="Policies">
-      <Link to="/policies/refund">Refund Policy</Link>
-      <span className="sep" aria-hidden>•</span>
-      <Link to="/policies/privacy">Privacy Policy</Link>
-      <span className="sep" aria-hidden>•</span>
-      <Link to="/policies/cookies">Cookies Policy</Link>
-    </nav>
 
-    <div className="policy-copy">
-      © {new Date().getFullYear()} INFINITY TV. All rights reserved.
-      <span className="heart" aria-hidden>❤</span>
-    </div>
-  </div>
-</div>
