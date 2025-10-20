@@ -5,7 +5,7 @@ export default function Pricing() {
     {
       title: "3 Months",
       badge: "For 1 Screen",
-      price: "€20.00",
+      price: "€19.99",
       highlight: false,
       features: [
         "SD/HD/Full HD/4K quality",
@@ -23,7 +23,7 @@ export default function Pricing() {
     {
       title: "6 Months",
       badge: "For 1 Screen",
-      price: "€38.00",
+      price: "€34.00",
       highlight: false,
       features: [
         "SD/HD/Full HD/4K quality",
@@ -41,7 +41,7 @@ export default function Pricing() {
     {
       title: "1 Year",
       badge: "For 1 Screen",
-      price: "€38.00",
+      price: "€39.99",
       highlight: true, // highlighted like your right-most blue card
       features: [
         "SD/HD/Full HD/4K Quality",
