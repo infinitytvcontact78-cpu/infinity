@@ -48,7 +48,7 @@ export default function Navbar() {
           {/* ✅ Free Trial (WhatsApp) */}
           <a
             className="btn trial"
-            href="https://wa.me/212617678180?text=Hello%20INFINITY%20TV%2C%20I%27d%20like%20a%20free%20trial%20please."
+            href="https://wa.me/14383657759?text=Hello%20INFINITY%20TV%2C%20I%27d%20like%20a%20free%20trial%20please."
             target="_blank"
             rel="noreferrer"
             aria-label="Start a free trial on WhatsApp"
@@ -107,7 +107,7 @@ export default function Navbar() {
         {/* ✅ Free Trial (WhatsApp) */}
         <a
           className="btn trial"
-          href="https://wa.me/212617678180?text=Hello%20INFINITY%20TV%2C%20I%27d%20like%20a%20free%20trial%20please."
+          href="https://wa.me/14383657759?text=Hello%20INFINITY%20TV%2C%20I%27d%20like%20a%20free%20trial%20please."
           target="_blank"
           rel="noreferrer"
           aria-label="Start a free trial on WhatsApp"
