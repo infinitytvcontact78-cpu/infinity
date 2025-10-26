@@ -18,7 +18,7 @@ export default function Pricing() {
         "Free updates",
         "After-sales service",
       ],
-      cta: "https://wa.me/212617678180?text=Hello%2C%20I%20want%20the%203%20Months%20plan",
+      cta: "https://wa.me/14383657759?text=Hello%2C%20I%20want%20the%203%20Months%20plan",
     },
     {
       title: "6 Months",
@@ -36,7 +36,7 @@ export default function Pricing() {
         "Free updates",
         "After-sales service",
       ],
-      cta: "https://wa.me/212617678180?text=Hello%2C%20I%20want%20the%206%20Months%20plan",
+      cta: "https://wa.me/14383657759?text=Hello%2C%20I%20want%20the%206%20Months%20plan",
     },
     {
       title: "1 Year",
@@ -54,7 +54,7 @@ export default function Pricing() {
         "Free updates",
         "After-sales service",
       ],
-      cta: "https://wa.me/212617678180?text=Hello%2C%20I%20want%20the%201%20Year%20plan",
+      cta: "https://wa.me/14383657759?text=Hello%2C%20I%20want%20the%201%20Year%20plan",
     },
   ];
 
