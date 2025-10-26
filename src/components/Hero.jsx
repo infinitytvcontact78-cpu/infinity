@@ -15,7 +15,7 @@ export default function Hero() {
             <a className="btn" href="#pricing">See Plans</a>
             <a
               className="btn trial"
-              href="https://wa.me/212617678180?text=Hello%2C%20I%20want%20a%20free%20trial%20for%20INFINITY%20TV"
+              href="https://wa.me/14383657759?text=Hello%2C%20I%20want%20a%20free%20trial%20for%20INFINITY%20TV"
               target="_blank"
               rel="noreferrer"
             >
